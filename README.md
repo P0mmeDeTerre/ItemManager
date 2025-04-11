@@ -1,12 +1,6 @@
-# ItemManager patch notes
+The version on github is for `Unreal Engine 5.5`
 
-## 1.1 CURRENT VERSION
+Other version are in `Release` section
 
-### Major
-- Add an option to use the width of the mesh instead of the height in `Ground Type Properties`
-- Actor can use item while switching. `FIXED`
-### Minor
-- Various wrong and missing tooltip. `FIXED`
+You can grab for free the plugin of fab https://www.fab.com/listings/0f13201d-4eab-4b35-8131-a0a17e1ff357
 
----
-## 1.0 
