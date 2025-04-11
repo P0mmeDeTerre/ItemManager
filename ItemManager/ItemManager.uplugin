@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "Item Manager",
+	"Description": "",
+	"Category": "Code Plugins",
+	"CreatedBy": "Ryckbosch Arthur",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/P0mmeDeTerre/ItemManager/wiki",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1a9f34c7e1fd4c89b98c24d845d7c2b6",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ItemManager",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac"
+			]
+		}
+	]
+}
